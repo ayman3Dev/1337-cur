@@ -4,9 +4,11 @@ CC = cc
 
 CFLAGS = -Wall -Wextra -Werror
 
+
+
 RM = rm -f
 
-SRC = 
+SRC = so_long
 
 INCLUDES = -I/opt/X11/include -Imlx
 
